@@ -1,4 +1,7 @@
 ####  Data Visualization and Exploration : A User-Friendly Tool Using Streamlit and Plotly
+###   Objective:
+   This program allows in the cloning of the phonepe pulse data from Github. Python handles this portion of the process.then change every value associated with the database format. then a MySQL database can be filled with data. This is a component of ETL, and with the help of plotly and streamlit libraries, we can see some of the insights drawn from the data.
+   
 ###  What is PhonePe Pulse?
    The PhonePe Pulse website showcases more than 2000+ Crore transactions by consumers on an interactive map of India. With over 45% market share, PhonePe's data is representative of the country's digital payment habits. The insights on the website and in the report have been drawn from two key sources - the entirety of PhonePe's transaction data combined with merchant and customer interviews. The report is available as a free download on the PhonePe Pulse website and GitHub.
     
