@@ -15,10 +15,10 @@ plt.style.use('_mpl-gallery')
 
 
 connection = mysql.connector.connect(
-        host='127.0.0.1',
+        host='host',
         user='root',
-        password="Happylife@1309",
-        database="phonepe"
+        password="pwd",
+        database="dbname"
     )
 cur = connection.cursor()
 
